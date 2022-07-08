@@ -1,13 +1,15 @@
 <?php
 
     //  nome
-    $name = "Ewerton <br>";
+    $name = "Ewerton";
     //  idade
-    $role = "student <br>";
+    $role = "student";
     //  profissao
     $age = 24;
 
     echo $name;
+    echo "<br>";
     echo $role;
+    echo "<br>";
     echo $age;
 ?>
